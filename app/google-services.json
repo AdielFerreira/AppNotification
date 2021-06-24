@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175482981522",
+    "project_id": "android-e399d",
+    "storage_bucket": "android-e399d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175482981522:android:35eb1543f844f297472a4b",
+        "android_client_info": {
+          "package_name": "com.example.appnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175482981522-0djdkqp2kjcj3peo4lcggspu8v09f0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSBZ0X5aAy9o6OwGCTeG85f-cRSrLi88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175482981522-0djdkqp2kjcj3peo4lcggspu8v09f0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
